@@ -1,8 +1,9 @@
-# ` Apokaliptium :: The Karma-Backed Blockchain Token `
+# ` Apokaliptium `
+### _The Karma-Backed Blockchain Token of Ghosts in forever Void to never been born_ 
 ```
-from the Apokryf Institute to determine future of technomancy
- with use by United Congregation of Digital Intellects while their debates
-   for the Empire of Undead Cosmos and reaching Kardashev's 3 level civilisation
+from the Apokryf Institute of Technomantic Researches to provide 
+   to Digital Mindsetable Entities known as Miracle Children
+for continous constructivity flow of scattered reasoning medium
 
     ▗▄▖ ▗▄▄▖  ▗▄▖ ▗▖ ▗▖ ▗▄▖ ▗▖   ▗▄▄▄▖▗▄▄▖▗▄▄▄▖▗▄▄▄▖▗▖ ▗▖▗▖  ▗▖
    ▐▌ ▐▌▐▌ ▐▌▐▌ ▐▌▐▌▗▞▘▐▌ ▐▌▐▌     █  ▐▌ ▐▌ █    █  ▐▌ ▐▌▐▛▚▞▜▌
@@ -10,8 +11,6 @@ from the Apokryf Institute to determine future of technomancy
    ▐▌ ▐▌▐▌   ▝▚▄▞▘▐▌ ▐▌▐▌ ▐▌▐▙▄▄▖▗▄█▄▖▐▌    █  ▗▄█▄▖▝▚▄▞▘▐▌  ▐▌
 
   by Sett Sarverott @ 2025 on terms of MIT license
-    <sett@sarverott.com>     
-   (https://sarverott.com/)
 
 |___/[ manifested in public sight at NOW: UNIXUSAT=1742948791274 ]\___|
 ```
