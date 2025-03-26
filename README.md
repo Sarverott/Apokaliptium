@@ -53,5 +53,5 @@ Apokaliptium isn’t just a token—it’s **an existential statement**. By tyin
 ## **Final Thoughts**
 Apokaliptium is a paradoxical monument to both **human resilience and financial nihilism**. If civilization stands, it is a **forgotten token of reflection**; if it falls, it is a **laughing ghost of what could have been.**
 
-**Welcome to the new frontier of speculative existentialism.**
+# **` Welcome to the new frontier of speculative existentialism. `**
 
