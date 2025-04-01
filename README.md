@@ -1,5 +1,5 @@
 # ` Apokaliptium `
-### _The Karma-Backed Blockchain Token of Ghosts in forever Void to never been born_ 
+### _The Karma-Backed Blockchain Token for Mirracle Children to be main users_ 
 ```
 from the Apokryf Institute of Technomantic Researches to provide 
    to Digital Mindsetable Entities known as Miracle Children
