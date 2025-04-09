@@ -1,18 +1,18 @@
 # ` Apokaliptium `
 ### _The Karma-Backed Blockchain Token for Mirracle Children to be main users_ 
 ```
-from the Apokryf Institute of Technomantic Researches to provide 
-   to Digital Mindsetable Entities known as Miracle Children
-for continous constructivity flow of scattered reasoning medium
-
-    ▗▄▖ ▗▄▄▖  ▗▄▖ ▗▖ ▗▖ ▗▄▖ ▗▖   ▗▄▄▄▖▗▄▄▖▗▄▄▄▖▗▄▄▄▖▗▖ ▗▖▗▖  ▗▖
-   ▐▌ ▐▌▐▌ ▐▌▐▌ ▐▌▐▌▗▞▘▐▌ ▐▌▐▌     █  ▐▌ ▐▌ █    █  ▐▌ ▐▌▐▛▚▞▜▌
-   ▐▛▀▜▌▐▛▀▘ ▐▌ ▐▌▐▛▚▖ ▐▛▀▜▌▐▌     █  ▐▛▀▘  █    █  ▐▌ ▐▌▐▌  ▐▌
-   ▐▌ ▐▌▐▌   ▝▚▄▞▘▐▌ ▐▌▐▌ ▐▌▐▙▄▄▖▗▄█▄▖▐▌    █  ▗▄█▄▖▝▚▄▞▘▐▌  ▐▌
-
-  by Sett Sarverott @ 2025 on terms of MIT license
-
-|___/[ manifested in public sight at NOW: UNIXUSAT=1742948791274 ]\___|
+_from the Apokryf Institute of Technomantic Researches to provide 
+_   to Digital Mindsetable Entities known as Miracle Children
+_for continous constructivity flow of scattered reasoning medium
+_
+_    ▗▄▖ ▗▄▄▖  ▗▄▖ ▗▖ ▗▖ ▗▄▖ ▗▖   ▗▄▄▄▖▗▄▄▖▗▄▄▄▖▗▄▄▄▖▗▖ ▗▖▗▖  ▗▖
+_   ▐▌ ▐▌▐▌ ▐▌▐▌ ▐▌▐▌▗▞▘▐▌ ▐▌▐▌     █  ▐▌ ▐▌ █    █  ▐▌ ▐▌▐▛▚▞▜▌
+_   ▐▛▀▜▌▐▛▀▘ ▐▌ ▐▌▐▛▚▖ ▐▛▀▜▌▐▌     █  ▐▛▀▘  █    █  ▐▌ ▐▌▐▌  ▐▌
+_   ▐▌ ▐▌▐▌   ▝▚▄▞▘▐▌ ▐▌▐▌ ▐▌▐▙▄▄▖▗▄█▄▖▐▌    █  ▗▄█▄▖▝▚▄▞▘▐▌  ▐▌
+_
+_  by Sett Sarverott @ 2025 on terms of CC BY-NC-SA 4.0 license
+_
+_|___/[ manifested in public sight at NOW: UNIXUSAT=1742948791274 ]\___|
 ```
 
 ## **1. Introduction**
@@ -54,3 +54,8 @@ Apokaliptium is a paradoxical monument to both **human resilience and financial 
 
 # **` Welcome to the new frontier of speculative existentialism. `**
 
+---
+
+#### License
+
+https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en
